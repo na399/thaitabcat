@@ -3,4 +3,6 @@ theme: jekyll-theme-cayman
 title: Thai TabCAT
 description: Thai Tablet-based Cognitive Assessment Tool
 
+github:
+  is_project_page: false
 google_analytics: UA-100557299-3
