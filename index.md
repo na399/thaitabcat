@@ -4,6 +4,8 @@
 
 BHA consists of 4 subtests assessing different functions of the brain. **Favorites** is a memory task; **Match** is an executive and psychomotor speed task; **Line Orientation** is a task measuring visuospatial skills; and **Brain Health Survey (BHS)** is a set of informant-based questionnaires.
 
+<br/>
+
 ## Thai TabCAT
 
 [Dr Suchanan Kanjanapong](https://www.linkedin.com/in/suchanan-kanjanapong-a16624a5/) spent her year during a [Prince Mahidol Award Youth Program Scholarship](https://www.princemahidolaward.org/the-result-of-the-prince-mahidol-award-youth-program-scholarship-recipients-2017/) period under supervision of [Associate Professor Katherine Possin](https://memory.ucsf.edu/people/katherine-possin-phd) at the [Memory and Aging Center, UCSF](https://memory.ucsf.edu) working on a Thai version of the tablet-based cognitive testing tool, called Thai **TabCAT**.
@@ -16,9 +18,13 @@ BHA consists of 4 subtests assessing different functions of the brain. **Favorit
 
 ![Thai BHA Poster](/static/img/pmac-poster-200123-preview.jpg)
 
+<br/>
+
 ## Reference
 
 Possin, K.L., Moskowitz, T., Erlhoff, S.J., Rogers, K.M., Johnson, E.T., Steele, N.Z.R., Higgins, J.J., Stiver, J., Alioto, A.G., Farias, S.T., Miller, B.L. and Rankin, K.P. (2018), The Brain Health Assessment for Detecting and Diagnosing Neurocognitive Disorders. J Am Geriatr Soc, 66: 150-156. doi:[10.1111/jgs.15208](https://doi.org/10.1111/jgs.15208)
+
+<br/>
 
 ## Contact
 
@@ -28,6 +34,8 @@ Possin, K.L., Moskowitz, T., Erlhoff, S.J., Rogers, K.M., Johnson, E.T., Steele,
 - Memory and Aging Center, Department of Neurology, University of California San Francisco, California, USA
 
 Twitter: [@SKanjanapong](https://twitter.com/SKanjanapong), [@ThaiTabCAT](https://twitter.com/ThaiTabCAT)
+
+<br/>
 
 ## Acknowledgement
 
